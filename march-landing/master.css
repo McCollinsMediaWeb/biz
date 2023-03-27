@@ -530,6 +530,118 @@ body footer {
     border: 2px solid rgb(122, 33, 130);
 }
 
+.FrMSt2 .iti {
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.ErrorBox {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.ErrorBoxLogo {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/alerterror.png);
+    width: 80px;
+    height: 80px;
+    background-size: 100% 100%;
+    display: inline-block;
+    margin-bottom: 40px;
+
+}
+
+.ErrorBoxLogo1 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/alertsuccess.png);
+    width: 80px;
+    height: 80px;
+    background-size: 100% 100%;
+    display: inline-block;
+    margin-bottom: 40px;
+
+}
+
+.ErrorBoxLogo2 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/alertsuccess2.png);
+    width: 80px;
+    height: 80px;
+    background-size: 100% 100%;
+    display: inline-block;
+    margin-top: 40px;
+
+}
+
+.ErrorBoxT1 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+.ErrorBoxT2 {
+    font-weight: 900;
+    font-size: 25px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.ErrorBoxT3 {
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.CloseBtnR1 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/close.png);
+    width: 40px;
+    height: 40px;
+    background-size: 100% 100%;
+    margin-top: 60px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.BankForm-CntLabel2 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.RowDiv1 {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #e4e4e4;
+}
+
+.FrMSt2 input.cnt {
+    height: 40px;
+    line-height: 40px;
+    display: block;
+    border: 1px solid #aaa;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.BankStep1 ::placeholder {
+    color: #313131;
+    opacity: 1;
+}
+
+.BankStep1 :-ms-input-placeholder {
+    color: #313131;
+}
+
+.BankStep1 ::-ms-input-placeholder {
+    color: #313131;
+}
+
 @media only screen and (max-width: 1000px) {
     .Sec2T2T1 {
         font-size: 30px;
@@ -699,6 +811,17 @@ body footer {
 
     .row1 .col-3 {
         max-width: 100%;
+    }
+    .BankForm-CntLabel {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .BankFormNextBtn {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+    .ErrorBoxT2 {
+        font-size: 20px;
     }
 
 }
