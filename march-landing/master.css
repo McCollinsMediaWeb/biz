@@ -1,0 +1,587 @@
+.font-black {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.ft1 {
+    font-size: 35px;
+    color: #8376B2;
+    margin-bottom: 20px;
+}
+
+.ft2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.font-bold {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.ft3 {
+    font-size: 17px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.font-medium {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-style: normal;
+}
+
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.row1 .col-3 {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.lc_callback_widget,
+.zsiq_floatmain {
+    display: none !important;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.2;
+    color: #333333;
+}
+
+
+
+.HBn1Content {}
+
+.LogoBoxImg {
+    max-width: 320px;
+    margin-bottom: 30px;
+}
+
+.HBn1T1 {
+    font-weight: 900;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.HBn1T2 {
+    font-weight: 500;
+    font-size: 31px;
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.HBn1T3 {
+    background: #B0CC55;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+.CheckBtn1 {
+    background-color: #b21d55;
+    font-weight: 900;
+    padding: 15px 19px;
+    font-size: 30px;
+    display: inline-block;
+    color: #fff !important;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
+.CheckBtn1:hover {
+    color: #fff;
+    background: rgb(122, 33, 130);
+    background: linear-gradient(90deg, rgba(122, 33, 130, 1) 8.0524%, rgba(231, 28, 98, 1) 100%);
+    border: 2px solid rgb(122, 33, 130);
+}
+
+.MrSec {
+
+    background-color: linear-gradient(90deg, rgba(122, 33, 130, 1) 8.0524%, rgba(231, 28, 98, 1) 100%);
+    padding: 60px 15px;
+}
+
+.MrSec1 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/mainbanner-desk.jpg);
+    background-size: 100% 100%;
+    color: #fff;
+    min-height: 100vh;
+    text-align: center;
+    background-color: #b21d55;
+}
+
+.MrSec2 {
+
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/section-2-desk.jpg);
+    background-size: 100% 100%;
+    min-height: 100vh;
+    background-color: #b21d55;
+}
+
+.MrSec3 {
+
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/section-3-desk.jpg);
+    background-size: 100% 100%;
+    background-color: #f3e3bf;
+    padding: 80px 0px 160px 0px;
+}
+
+.FlDspBox {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.FullWidthBox {
+    width: 100%;
+}
+
+.HBn1T4 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.HBn1T5 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-transform: capitalize;
+}
+
+.HBn1T6 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.HBn1T7 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.HBn1T8 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.PartnersBoxRow {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.PartnersBoxCol {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 0px 5px;
+    margin-bottom: 10px;
+}
+
+.PartnersBoxCol img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.MrSec1 .container {
+    max-width: 800px;
+}
+
+.WaveBox img {
+    width: 100%;
+}
+
+.Mrslider1 .slick-slide {
+    height: auto;
+}
+
+.Mrslider1Cnt {
+    position: relative;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 25px 50px;
+    border: 2px solid #B33975;
+    border-radius: 30px;
+}
+
+.CntC1 {
+    font-weight: 600;
+    font-size: 23px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+.CntC2 {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.StepBox {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    color: #fff;
+    background: #B33975;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: -40px;
+    top: 50%;
+    margin-top: -40px;
+}
+
+.Mrslider1 {
+    margin: 50px 0px;
+}
+
+.StepBoxT1 {}
+
+.StepBoxT2 {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.Mrslider1Cnt.color1 {
+    border: 2px solid #7E359F;
+}
+
+.Mrslider1Cnt.color1 .StepBox {
+    background: #7E359F;
+}
+
+.Mrslider1Cnt.color3 {
+    border: 2px solid #BC5936;
+}
+
+.Mrslider1Cnt.color3 .StepBox {
+    background: #BC5936;
+}
+
+.Mrslider1Cnt.color4 {
+    border: 2px solid #C98641;
+}
+
+.Mrslider1Cnt.color4 .StepBox {
+    background: #C98641;
+}
+
+.Mrslider1 .slick-prev:before,
+.Mrslider1 .slick-next:before {
+    font-size: 50px;
+    color: #333333;
+    opacity: 1 !important;
+}
+
+.Mrslider1 .slick-prev,
+.Mrslider1 .slick-next {
+    width: 50px;
+    height: 50px;
+}
+
+.BtnWr1 .CheckBtn1 {
+    margin: 0 auto;
+    font-size: 22px;
+    padding: 10px 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.MrSec5 {
+    background: #f4f4f4;
+}
+
+.SliderItem {
+    padding-top: 50px;
+
+}
+
+.SliderItem1 {
+    background: #fff;
+    padding: 15px;
+    border-radius: 30px;
+    margin: 0 15px;
+}
+
+.ReviewOwnerB1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin: 0 auto;
+    font-size: 50px;
+    color: #fff;
+    padding-top: 7px;
+    margin-top: -58px;
+    font-weight: 900;
+}
+
+.ReviewOwnerB1.color2 {
+    background-color: #C4D99F;
+}
+
+.ReviewOwnerB1.color1 {
+    background-color: #97C6CA;
+}
+
+.ReviewOwnerB1.color3 {
+    background-color: #EDD194;
+}
+
+.QuoteLeft {
+    text-align: left;
+}
+
+.ReviewName {
+    font-size: 17px;
+    margin-bottom: 5px;
+    margin-top: -32px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.ReviewDesignation {
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ReviewComment {
+    font-size: 15px;
+    line-height: 1.4;
+    height: 230px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-style: italic;
+}
+
+.QuoteRight {
+    text-align: right;
+    margin-bottom: -40px;
+}
+
+.slick-slide {
+    height: auto !important;
+}
+
+
+
+.Styled-Border {
+    background-image: url(https://mccollinsmediaweb.github.io/Clients/biz-assets//assets/images/border1.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 3px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.ft4 {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+body footer {
+    background: #f4f4f4 !important;
+    padding-top: 10px !important;
+    padding-bottom: 15px !important;
+}
+.Sec2T2T1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.BankForm-CntLabel{
+        text-align: center;
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 25px;
+        text-transform: capitalize;
+}
+.BankStep1{
+    max-width:600px;
+    margin:0 auto;
+    text-align:center;
+}
+@media only screen and (max-width: 1000px) {
+    .Sec2T2T1{
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .Sec2T2T1 br{
+        display:none;
+    }
+  .MrSec1 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/mainbanner.jpg);
+  }
+  .MrSec2 {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/section-2-mob.jpg);
+  }
+  .HBn1T1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .HBn1T2 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .HBn1T3 {
+        font-size: 21px;
+        margin-bottom: 15px;
+        padding: 10px 18px;
+    }
+    .CheckBtn1 {
+        padding: 12px 15px;
+        font-size: 18px;
+    }
+    .MrSec3 {
+        padding: 60px 15px 80px 15px !important;
+    }
+    .HBn1T4 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .HBn1T5 {
+        font-size: 23px;
+    }
+    .HBn1T5 br{
+        display:none;
+    }
+    .PartnersBoxCol {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .MrSec {
+        padding: 30px 15px;
+    }
+    .HBn1T6 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .Mrslider1Cnt {
+        max-width: 100%;
+        margin: 0px 15px;
+        height: 360px;
+        padding: 15px 15px 15px 40px;
+    }
+    .Mrslider1 {
+        margin: 20px 0px;
+    }
+    .CntC1 {
+        font-size: 19px;
+    }
+    .CntC2 {
+        font-size: 17px;
+    }
+    .StepBox {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        color: #fff;
+        background: #B33975;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        position: absolute;
+        left: -25px;
+        top: 50%;
+        margin-top: -25px;
+    }
+    .StepBoxT2 {
+        font-size: 20px;
+    }
+    .BtnWr1 .CheckBtn1 {
+        font-size: 18px;
+    }
+    .Mrslider1 {
+        margin: 20px -20px;
+    }
+    .HBn1T7{
+        font-size:30px;
+    }
+    .HBn1T8 {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+    .SliderItem1 {
+        margin: 0 10px;
+    }
+    .ReviewOwnerB1 {
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        margin: 0 auto;
+        font-size: 40px;
+        color: #fff;
+        padding-top: 7px;
+        margin-top: -40px;
+    }
+    .SliderItem {
+        padding-top: 30px;
+    }
+    .TestSlider{
+            margin: 0 -20px;
+    }
+    body footer {
+        padding: 15px !important;
+    }
+    .ft1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .footerLogo img{
+       margin-bottom: 15px;
+       margin-left: -8px;
+    }
+    .row1 {
+        display: block;
+    }
+    .row1 .col-3{
+        max-width:100%;
+    }
+
+}
