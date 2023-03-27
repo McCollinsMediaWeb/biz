@@ -446,6 +446,46 @@ body footer {
     margin:0 auto;
     text-align:center;
 }
+.BankForm-CntInput .select2-container {
+    display: block;
+    width: 100% !important;
+    font-weight: 600;
+  }
+  .BankForm-CntInput .select2-container .select2-selection--single {
+    height: 45px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.17);
+    border-radius: 20px;
+  }
+  .BankForm-CntInput
+    .select2-container--default
+    .select2-selection--single
+    .select2-selection__rendered {
+    line-height: 40px;
+    font-size: 20px;
+    color: #313131;
+  }
+  .select2-container--default
+    .select2-results__option--highlighted.select2-results__option--selectable {
+    background: #b21d55;
+    color: #ffff;
+  }
+  .select2-results__option {
+    padding: 10px 6px;
+    font-weight: 600;
+  }
+  .select2-container--default
+    .select2-selection--single
+    .select2-selection__arrow
+    b {
+    background-image: url(https://mccollinsmediaweb.github.io/biz/march-landing/toptobottom.png);
+    width: 21px;
+    height: 12px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-width: 0 !important;
+    left: -9px;
+    margin-top: 2px;
+  }
 @media only screen and (max-width: 1000px) {
     .Sec2T2T1{
         font-size: 30px;
