@@ -523,6 +523,8 @@ body footer {
     font-weight: 600;
     font-size: 18px;
     cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .YesOrNoBox span.active,
