@@ -646,7 +646,7 @@ body footer {
 
 @media only screen and (max-width: 1000px) {
     .Sec2T2T1 {
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 15px;
     }
 
@@ -663,17 +663,17 @@ body footer {
     }
 
     .HBn1T1 {
-        font-size: 30px;
+        font-size: 26px;
         margin-bottom: 15px;
     }
 
     .HBn1T2 {
-        font-size: 25px;
+        font-size: 20px;
         margin-bottom: 15px;
     }
 
     .HBn1T3 {
-        font-size: 21px;
+        font-size: 19px;
         margin-bottom: 15px;
         padding: 10px 18px;
     }
@@ -688,7 +688,7 @@ body footer {
     }
 
     .HBn1T4 {
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 15px;
     }
 
@@ -710,7 +710,7 @@ body footer {
     }
 
     .HBn1T6 {
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 15px;
     }
 
@@ -762,7 +762,7 @@ body footer {
     }
 
     .HBn1T7 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .HBn1T8 {
@@ -825,5 +825,7 @@ body footer {
     .ErrorBoxT2 {
         font-size: 20px;
     }
-
+    .LogoBoxImg{
+        max-width: 260px;
+    }
 }
