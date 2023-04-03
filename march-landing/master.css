@@ -84,7 +84,9 @@ body {
 }
 
 .HBn1T3 {
-    background: #B0CC55;
+    /* background: #B0CC55; */
+    background: rgb(122, 33, 130);
+    background: linear-gradient(90deg, rgba(122, 33, 130, 1) 8.0524%, rgba(231, 28, 98, 1) 100%);
     font-size: 30px;
     text-transform: uppercase;
     line-height: 1.2;
