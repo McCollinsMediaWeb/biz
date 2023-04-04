@@ -63,7 +63,7 @@ body {
 .HBn1Content {}
 
 .LogoBoxImg {
-    max-width: 320px;
+    max-width: 300px;
     margin-bottom: 30px;
 }
 
@@ -828,6 +828,6 @@ body footer {
         font-size: 20px;
     }
     .LogoBoxImg{
-        max-width: 260px;
+        max-width: 230px;
     }
 }
