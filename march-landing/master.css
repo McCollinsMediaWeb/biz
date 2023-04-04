@@ -78,7 +78,7 @@ body {
 .HBn1T2 {
     font-weight: 500;
     font-size: 31px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     line-height: 1.2;
     margin-bottom: 20px;
 }
@@ -88,7 +88,7 @@ body {
     background: rgb(122, 33, 130);
     background: linear-gradient(90deg, rgba(122, 33, 130, 1) 8.0524%, rgba(231, 28, 98, 1) 100%);
     font-size: 30px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     line-height: 1.2;
     margin-bottom: 20px;
     padding: 10px 25px;
@@ -386,7 +386,7 @@ body {
     margin-bottom: 20px;
     font-family: 'Montserrat';
     font-weight: 500;
-    font-style: normal;
+    font-style: italic;
 }
 
 .ReviewComment {
@@ -633,7 +633,7 @@ body footer {
     font-size: 20px;
 }
 
-.BankStep1 ::placeholder {
+/* .BankStep1 ::placeholder {
     color: #313131;
     opacity: 1;
 }
@@ -644,7 +644,7 @@ body footer {
 
 .BankStep1 ::-ms-input-placeholder {
     color: #313131;
-}
+} */
 
 @media only screen and (max-width: 1000px) {
     .Sec2T2T1 {
