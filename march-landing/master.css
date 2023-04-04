@@ -389,7 +389,7 @@ html body .activeBtn {
     margin-bottom: 20px;
     font-family: 'Montserrat';
     font-weight: 500;
-    font-style: italic;
+    font-style: normal;
 }
 
 .ReviewComment {
@@ -400,7 +400,7 @@ html body .activeBtn {
     margin-bottom: 20px;
     font-family: 'Montserrat';
     font-weight: 500;
-    font-style: italic;
+    font-style: normal;
 }
 
 .QuoteRight {
