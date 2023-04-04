@@ -94,7 +94,10 @@ body {
     padding: 10px 25px;
     display: inline-block;
 }
-
+html body .activeBtn {
+    background: #fff !important;
+    border: 2px solid #313131 !important;
+}
 .CheckBtn1 {
     background-color: #b21d55;
     font-weight: 900;
