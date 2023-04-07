@@ -631,7 +631,7 @@ body footer {
     border: 1px solid #aaa;
     width: 100%;
     margin-bottom: 10px;
-    padding: 10px 25px;
+    padding: 10px 15px;
     border-radius: 30px;
     font-weight: 600;
     font-size: 20px;
@@ -649,7 +649,9 @@ body footer {
 .BankStep1 ::-ms-input-placeholder {
     color: #313131;
 } */
-
+.iti--allow-dropdown input.cnt{
+    padding-left: 52px !important;
+}
 @media only screen and (max-width: 1000px) {
     .Sec2T2T1 {
         font-size: 25px;
